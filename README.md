@@ -1,2 +1,2 @@
-# stack
-Stack Implementation Using Java
+# DataStructures
+Data Structures' Implementation Using Java
